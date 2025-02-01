@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/usman-97/four-card-feature-section](https://github.com/usman-97/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://usman-97.github.io/four-card-feature-section/](https://usman-97.github.io/four-card-feature-section/)
 
 ## My process
 
