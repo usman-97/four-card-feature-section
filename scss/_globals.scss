@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: $grayish-blue;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-size: 15px;
+  background-color: $very-light-gray;
+}
+
+h1 {
+  color: $very-dark-blue;
+  font-size: 1.3rem;
+  font-weight: 200;
+}
+
+h2,
+h3 {
+  color: $very-dark-blue;
+  font-weight: 600;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  color: $very-dark-blue;
+  font-weight: 600;
+  text-decoration: none;
+}
